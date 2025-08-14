@@ -63,13 +63,3 @@ Now that everything is ready:
 python detect.py
 3. After a few seconds, a new image named 'Final.jpg' will appear.
 Open it and you’ll see boxes around the objects YOLO found.
-Image before Prediction:
- 
- 
-Image After Prediction:
-Using Yolov8:
- 
-
-Using Yolov8n:
- 
-
